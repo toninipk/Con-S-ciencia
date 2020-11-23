@@ -21,7 +21,7 @@
 title: Con(S)ciencia
 email: annaferar@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  con(S)ciencia es un proyecto colaborativo para ayudarnos a ganar consciencia y conciencia en un sentido amplio y sobre aspectos diversos: con(S)ciencia individual, social y global en medioambiente, salud, cuerpo-mente, lenguaje, hábitos cotidianos, ocio, etc.
+  Proyecto colaborativo para ayudarnos a ganar consciencia y conciencia
 baseurl: "/Con-S-ciencia" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: ahoravivoasi
