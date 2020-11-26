@@ -4,10 +4,10 @@ title: Podcasts
 permalink: /podcasts/
 ---
 
-Aquí pondremos nuestros podcasts (espero).
+<h2>Episodio 1 del Podcast de Con(S)ciencia</h2>
 
-Mientrastanto nos puedes encontrar en Instagram:
-[@ahoravivoasi](https://www.instagram.com/ahoravivoasi/) /
-[@toninipk](https://www.instagram.com/toninipk/) /
-[@lorenaferar](https://www.instagram.com/lorenaferar/) /
-[@the_kellog](https://www.instagram.com/the_kellog/)
+[Episodio 1](https://www.ivoox.com/con-s-ciencia-episodio-1-audios-mp3_rf_60946731_1.html)
+
+<h4>Con:</h4>
+
+[@ahoravivoasi](https://www.instagram.com/ahoravivoasi/) y [@toninipk](https://www.instagram.com/toninipk/).
