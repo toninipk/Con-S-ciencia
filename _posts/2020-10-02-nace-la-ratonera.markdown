@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Nace La Ratonera"
-date:   2120-10-02 16:30:28 +0200
+date:   2020-10-02 16:30:28 +0200
 categories: 
+published: 
 ---
 Aquí van a escribir [Anna][IGAnna] y [Toni][IGToni].
 
